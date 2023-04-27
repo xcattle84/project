@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="description" content="Xavier web site.">
+
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="../css/bootstrap.css"/>
+
+<link rel="stylesheet" href="../css/opificium.css"/>
+
+<link rel="stylesheet" href="../css/job-openings.css"/>
+
+<title>wssu</title>
+
+</head>
+
+<body>
+
+<!-- Navbar -->
+
+<nav class="navbar navbar-expand-md navbar-light bg-white border navbar-expanded-border-color border-top-0 border-left-0 border-right-0">
+
+	<!-- Navbar brand heading -->
+
+	<a class="navbar-brand navbar-brand-text" href="../index.html">
+
+	</a>
+    	
+    <!--- Navbar Mobile Toggle -->
+        
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">        
+    	<span class="navbar-toggler-icon"></span>          
+  	</button>
+       
+    <!-- Navbar content -->
+        
+    <div class="navbar-collapse collapse" id="navbarToggler">
+        <ul class="navbar-nav">
+           	<li class="nav-item d-none d-md-block">
+				<a class="nav-link dropdown-toggle" href="#servicesExpandedContent" data-toggle="collapse">Our Services</a>
+            </li>
+            <li class="nav-item dropdown d-md-none">
+				<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="mobileServicesExpandedContent">Our Services</a>
+           		<div class="dropdown-menu border-0">
+					<a class="dropdown-item py-2" href="job-openings.html">Job Openings</a>
+					<a class="dropdown-item py-2" href="resume.html">Resume / Cover Letter</a>
+					<a class="dropdown-item py-2" href="application-form.html">Application Forms</a>
+					<a class="dropdown-item py-2" href="job-interviews.html">Job Interviews</a>
+				</div>
+			</li>
+            <li class="nav-item">
+                <a href="about-us.html" class="nav-link">About Us</a>
+            </li>        	 
+            <li class="nav-item">
+                <a href="contact.html" class="nav-link">Contact Us</a>
+            </li>             
+		</ul>  
+    </div>
+      
+</nav>
+
+<!-- Expanded Navbar Content -->
+
+<div class="collapse" id="servicesExpandedContent">
+	<div class="d-none d-md-block">
+		<ul class="nav justify-content-center pb-2 pt-1">
+		  <li class="nav-item">
+			<a class="nav-link navbar-expanded-content-item d-flex justify-content-center align-items-center flex-column" href="job-openings.html">
+				<img src="../images/job-openings-icon.svg" class="expanded-nav-icons p-2">
+				<span>Job Openings</span>
+			</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link navbar-expanded-content-item d-flex justify-content-center align-items-center flex-column" href="resume.html">
+				<img src="../images/resume-cover-letter-icon.svg" class="expanded-nav-icons p-2">Resume / Cover Letter
+			</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link navbar-expanded-content-item d-flex justify-content-center align-items-center flex-column" href="application-form.html">
+				<img src="../images/application-forms-icon.svg" class="expanded-nav-icons p-2">Application Forms
+			</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link navbar-expanded-content-item d-flex justify-content-center align-items-center flex-column" href="job-interviews.html">
+				<img src="../images/job-interviews-icon.svg" class="expanded-nav-icons p-2">Job Interviews
+			</a>
+		  </li>  
+		</ul>
+	</div>
+</div>
+
+<!-- Main Body -->
+
+<!-- Content Section 1 -->
+
+<div class="container-fluid bg-dark">
+	<div class="row">
+		<div class="col">
+			<h1 class="display-4 text-center py-5 text-white">Job Openings</h1>
+		</div>
+	</div>
+</div>
+
+<!-- Content Section 2 -->
+
+<div class="container py-5">
+	<div class="row justify-content-center">
+		<div class="col-10 col-lg-6">
+			<h2>A Different World.</h2>
+		</div>
+	</div>
+	
+	<div class="row justify-content-center">
+		<div class="col-10 col-lg-6">
+			<p>Over the years, areas where you can find job openings have developed and changed. The Internet is a top resource for many of today’s job hunters: Among Americans who have looked for work in the last two years, 79% utilized online resources in their most recent job search and 34% say these online resources were the most important tool available to them. People can also find job openings in other areas, whether in newspapers, from friends, or even on windows.</p>
+		</div>
+	</div>
+</div>
+
+<!-- Content Section 3 -->
+
+<div class="row bg-tile-1">
+	<div class="col d-flex justify-content-center align-items-center flex-column">
+		<h4 class="text-center text-white mb-2">Over 79% of people utilize online resources in their job searches</h4>
+		<h4 class="text-center text-white mb-2">Will you be the next?</h4>
+		<a class="btn tile-btn mt-2" href="job-search-engines.html">Explore options</a>
+	</div>
+</div>
+
+<!-- Content Section 4 -->
+
+<div class="container py-5">
+	<div class="row justify-content-center pb-2">
+		<div class="col-10 col-lg-6">
+			<h2>Job Search Engines.</h2>
+		</div>
+	</div>
+	
+	<div class="row justify-content-center pb-5">
+		<div class="col-10 col-lg-6">
+		  <p>Job openings have been radicalized through the introduction of the Internet. Before, you had to always go to a brick and mortar location and apply in person even if such a place was hours away from you. However with the expansion of the Internet, the very idea of finding a job online has become possible. Many sites have emerged to take care of such matters, and some like <a href="https://www.monster.com" target="_blank">Monster</a> and <a href="https://www.linkedin.com/" target="_blank">Linkedin</a> have become world famous sites known for their job databases. While the two offer varying services, the premise is similar - get you employed. </p>
+		</div>
+	</div>
+</div>			
+
+<!-- Footer -->
+
+<div class="footer bg-footer py-2 text-dark">
+	<div class="container">    	
+    	<div class="row mb-3 justify-content-center">
+    		<div class="col-md-auto d-flex flex-column align-items-center mb-2 mb-md-0">
+				<h4>Content</h4>
+				<a href="resume.html" class="footer-link small">Resume / Cover Letter</a>
+				<a href="application-form.html" class="footer-link small">Application Forms</a>
+				<a href="job-search-engines.html" class="footer-link small">Job Search Engines</a>
+				<a href="job-interviews.html" class="footer-link small">Job Interviews</a>
+				<a href="job-openings.html" class="footer-link small">Job Openings</a>
+			</div>
+			<div class="col-md-auto d-flex flex-column align-items-center">
+				<h4>Company</h4>
+				<a href="../index.html" class="footer-link small">Home</a>
+				<a href="contact.html" class="footer-link small">Contact</a>
+				<a href="about-us.html" class="footer-link small">About us</a>
+			</div>	
+		</div>	
+    	
+		<div class="row mb-1">
+			<div class="col text-center">
+				<div class="p-1">Connect with us on social media:</div>
+			</div>
+		</div>
+
+		<div class="row mb-2">
+			<div class="col text-center">   
+				<a href="https://www.instagram.com/xcattle84/" target="_blank"><img src="../images/instagram-icon.svg" class="p-1 footer-icon" alt="Instragram Icon"></a>
+				<a href="https://twitter.com/xcattle84" target="_blank"><img src="../images/twitter-icon.svg" class="p-1 footer-icon" alt="Twitter Icon"></a>
+				<a href="https://www.facebook.com/xavier.scales.1/" target="_blank"><img src="../images/facebook-icon.svg" class="p-1 footer-icon" alt="Facebook Icon"></a>
+				<a href="https://www.linkedin.com/in/xavier-scales-b8580317b/" target="_blank"><img src="../images/linkedin-icon.svg" class="p-1 footer-icon" alt="Linkedin Icon"></a>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col text-center small">
+				<div class="mb-2">wssu Xavier Scales - Copyright @ 2023</div>
+			</div>
+			<div class="w-100"></div>
+			<div class="col-6 text-center small">
+				<div class="mb-2">Images have been sourced from the public domain and their respective sites. All images and names belong to their respective owners and have been for used for educational purposes.</div>
+			</div> 
+		</div>
+    	
+    </div>    
+</div>
+
+</body>
